@@ -1,6 +1,6 @@
 # ViLT for Autonomous Driving
 
-[Open Notebook in Google Colab](https://colab.research.google.com/github/Keerthika-0109/vilt-autonomous-driving/blob/main/vilt_scene_understanding.ipynb)
+[Open Notebook in Google Colab](https://colab.research.google.com/drive/1XBTg_MOInpwPmWKF_GPiazjFOqztc-SU#scrollTo=5IfqQdLRSUTx)
 
 ## Project Overview
 
